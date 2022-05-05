@@ -1,0 +1,12 @@
+footer {
+    background-color: #eee;
+}
+
+.nav-item:hover {
+        cursor: pointer;
+        background-color:#0d6efd;
+        transition: all 1s;
+}
+.nav-link:hover{
+    color: white;
+}
