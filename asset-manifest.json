@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca487294.css",
-    "main.js": "/static/js/main.fad36ef3.js",
-    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.6aef0a3f12850e081374.ttf",
-    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.8dddb1b4cd1f65b03167.ttf",
-    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.1089d04e572b44b3d54a.woff2",
-    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.a4ac62083ead21bd1ea2.woff2",
-    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.e2e080ba746195932d7f.ttf",
-    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.d9ed9b6f8138a03cd29d.woff2",
-    "static/media/hero.jpg": "/static/media/hero.25bc21214908e70228ef.jpg",
-    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.83a9e0357eddeb41b08b.ttf",
-    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.2e77423e3ed431908eda.woff2",
-    "index.html": "/index.html",
-    "main.ca487294.css.map": "/static/css/main.ca487294.css.map",
-    "main.fad36ef3.js.map": "/static/js/main.fad36ef3.js.map"
+    "main.css": "/Pro-ReactApp/static/css/main.36876cfc.css",
+    "main.js": "/Pro-ReactApp/static/js/main.c9c5c582.js",
+    "static/media/fa-solid-900.ttf": "/Pro-ReactApp/static/media/fa-solid-900.6aef0a3f12850e081374.ttf",
+    "static/media/fa-brands-400.ttf": "/Pro-ReactApp/static/media/fa-brands-400.8dddb1b4cd1f65b03167.ttf",
+    "static/media/fa-solid-900.woff2": "/Pro-ReactApp/static/media/fa-solid-900.1089d04e572b44b3d54a.woff2",
+    "static/media/fa-brands-400.woff2": "/Pro-ReactApp/static/media/fa-brands-400.a4ac62083ead21bd1ea2.woff2",
+    "static/media/fa-regular-400.ttf": "/Pro-ReactApp/static/media/fa-regular-400.e2e080ba746195932d7f.ttf",
+    "static/media/fa-regular-400.woff2": "/Pro-ReactApp/static/media/fa-regular-400.d9ed9b6f8138a03cd29d.woff2",
+    "static/media/hero.jpg": "/Pro-ReactApp/static/media/hero.25bc21214908e70228ef.jpg",
+    "static/media/fa-v4compatibility.ttf": "/Pro-ReactApp/static/media/fa-v4compatibility.83a9e0357eddeb41b08b.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Pro-ReactApp/static/media/fa-v4compatibility.2e77423e3ed431908eda.woff2",
+    "index.html": "/Pro-ReactApp/index.html",
+    "main.36876cfc.css.map": "/Pro-ReactApp/static/css/main.36876cfc.css.map",
+    "main.c9c5c582.js.map": "/Pro-ReactApp/static/js/main.c9c5c582.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca487294.css",
-    "static/js/main.fad36ef3.js"
+    "static/css/main.36876cfc.css",
+    "static/js/main.c9c5c582.js"
   ]
 }
